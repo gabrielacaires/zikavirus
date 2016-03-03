@@ -5,16 +5,36 @@ nav {
 ul {
 	display: inline-block;
 	width: 100%;
-	margin: 0;
+  font-weight: bold;
 }
 
 li {
 	display: inline-block;
 	list-style: none;
-	margin: 0 10px;
+	margin: 0 15px;
+	line-height: 40px;
+	font-size: 22px;
+  font-weight: bold;
 }
 
-.banner {
-  width: 100%;
+h1 {
+	font-size: 50px;
+	line-height: 400px;
+	text-align: center;
+	font-weight: bold;
 }
 
+.header {
+	width: 100%;
+	height: auto;
+	background-color: gray;
+	background-image: url("ImagesFolder/ZikaVirus.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+nav {
+	width: 700px;
+	margin: 0 auto;
+	border-bottom: 2px solid #ff0000;
+}

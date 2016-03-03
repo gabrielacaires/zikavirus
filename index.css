@@ -2,3 +2,10 @@ ul li {
 	list-style: none;
 }
 
+.header {
+  color: white;
+}
+
+body {
+  background-color: #585858; 
+}
