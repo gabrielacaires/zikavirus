@@ -2,10 +2,10 @@ ul li {
 	list-style: none;
 }
 
-.header {
+/*.header {
   color: red;
 }
-
+*/
 body {
-  background-color: black; 
+  background-color: white; 
 }

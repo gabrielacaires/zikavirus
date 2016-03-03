@@ -15,19 +15,26 @@ li {
 	line-height: 40px;
 	font-size: 22px;
   font-weight: bold;
-  color: white;
+  color: #1f1f2e;
 }
 
 h1 {
+	display: block;
+	position: absolute;
+	top: 150px;
+	width: 100%;
 	font-size: 50px;
-	line-height: 400px;
+	line-height: 100px;
 	text-align: center;
 	font-weight: bold;
+	color: white;
+	background-color: rgba(128,128,128,0.6);
+
 }
 
 .header {
 	width: 100%;
-	height: auto;
+	height: 400px;
 	background-color: gray;
 	background-image: url("ImagesFolder/ZikaVirus.jpg");
 	background-repeat: no-repeat;
@@ -39,3 +46,4 @@ nav {
 	margin: 0 auto;
 	border-bottom: 2px solid #ff0000;
 }
+
