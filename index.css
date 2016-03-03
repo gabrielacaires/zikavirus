@@ -9,3 +9,13 @@ ul li {
 body {
   background-color: black; 
 }
+
+.about {
+  padding: 25px;
+  margin: 15px;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  font-style: sans-serif; 
+  line-height: 150%;
+}
