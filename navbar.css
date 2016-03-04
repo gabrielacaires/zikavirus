@@ -23,12 +23,12 @@ h1 {
 	position: absolute;
 	top: 150px;
 	width: 100%;
-	font-size: 50px;
+	font-size: 40px;
 	line-height: 100px;
 	text-align: center;
-	font-weight: bold;
 	color: white;
 	background-color: rgba(128,128,128,0.6);
+	font-family: "Courier New"; 
 
 }
 
@@ -42,7 +42,7 @@ h1 {
 }
 
 nav {
-	width: 700px;
+	width: 825px;
 	margin: 0 auto;
 	border-bottom: 2px solid #ff0000;
 }
