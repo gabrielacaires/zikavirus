@@ -3,19 +3,22 @@ ul li {
 }
 
 .header {
-  color: red;
+  color: white;
+ /* font-family: "Courier New"; 
+  font-size: 10px;*/
 }
 
 body {
-  background-color: black; 
+  background-color: white; 
 }
 
 .about {
   padding: 25px;
   margin: 15px;
-  color: white;
+  color: black;
   font-size: 20px;
   text-align: center;
   font-style: sans-serif; 
   line-height: 150%;
+  font-family: "Courier New"; 
 }
