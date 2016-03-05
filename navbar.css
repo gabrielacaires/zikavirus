@@ -1,5 +1,11 @@
-nav {
+nav a {
+	color: black;
+	text-decoration: none;
+}
 
+body {
+  background-color: white; 
+  font-family: "Courier New"; 
 }
 
 ul {
@@ -16,6 +22,7 @@ li {
 	font-size: 22px;
   font-weight: bold;
   color: #1f1f2e;
+  padding: 0 8px;
 }
 
 h1 {
@@ -23,12 +30,12 @@ h1 {
 	position: absolute;
 	top: 150px;
 	width: 100%;
-	font-size: 50px;
+	font-size: 40px;
 	line-height: 100px;
 	text-align: center;
-	font-weight: bold;
 	color: white;
 	background-color: rgba(128,128,128,0.6);
+	font-family: "Courier New"; 
 
 }
 
@@ -42,7 +49,7 @@ h1 {
 }
 
 nav {
-	width: 800px;
+	width: 900px;
 	margin: 0 auto;
 	border-bottom: 2px solid #ff0000;
 }
