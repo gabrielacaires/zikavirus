@@ -31,4 +31,8 @@ $(document).ready(function(){
 		}
 	});
 
+	$(".about").on("mouseenter", function(){
+		$("h3").show();
+	})
+
 });
