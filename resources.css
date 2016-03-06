@@ -6,7 +6,12 @@
 
 img {
 	padding: 10px;
-	border: 4px;
-	border-style: dashed;
-	border-radius: 50%;
 }
+
+.tabletext {
+	font-size: 20px;
+	font-weight: bold;
+	padding: 0;
+	vertical-align: middle;
+}
+
