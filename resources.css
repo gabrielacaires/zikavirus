@@ -1,0 +1,12 @@
+.content {
+	width: 900px;
+	height: 200px;
+	margin: 20px auto;
+}
+
+img {
+	padding: 10px;
+	border: 4px;
+	border-style: dashed;
+	border-radius: 50%;
+}
