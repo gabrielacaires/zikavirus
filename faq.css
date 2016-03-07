@@ -67,3 +67,21 @@ h2 {
   background-color: black;
   color: white;
 }
+
+.thirdparagraph {
+  padding: 10px;
+  margin: 15px;
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  font-style: sans-serif; 
+  line-height: 150%;
+  font-family: "Courier New"; 
+}
+
+.thirdparagraph:hover {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
