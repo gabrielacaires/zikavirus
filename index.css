@@ -55,7 +55,7 @@ h3 {
   text-align: center;
   color: red;
   font-weight: bold;
-  padding: 25px;
+  padding: 15px;
   margin: 15px;
 }
 
@@ -71,4 +71,13 @@ h3 {
   color: red;
   text-decoration: none;
 
+}
+
+.mosquito {
+	display: none;
+	width: 200px;
+	height: 200px;
+	position: fixed;
+	top: 150px;
+	left:150px;
 }

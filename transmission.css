@@ -56,3 +56,10 @@ li a{
 	font-weight: bold;
 	font-size: 30px;
 }
+
+.symptomimg {
+	display: none;
+	height: 200px;
+	width: 200px;
+	border-radius: 10%;
+}
