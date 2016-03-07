@@ -33,10 +33,10 @@ h2 {
   font-family: "Courier New"; 
 }
 
-.first:hover {
+.firstanswer:hover {
   text-align: center;
-  background-color: black;
-  color: white;
+  font-weight: bold;
+  font-size: 25px;
 }
 
 .secondparagraph {
@@ -62,8 +62,95 @@ h2 {
   font-family: "Courier New"; 
 }
 
-.secondparagraph:hover {
+.secondparagraphanswer:hover {
   text-align: center;
-  background-color: black;
-  color: white;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.thirdparagraph {
+  padding: 10px;
+  margin: 15px;
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  font-style: sans-serif; 
+  line-height: 150%;
+  font-family: "Courier New"; 
+}
+
+.thirdparagraphanswer:hover {
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.thirdparagraphanswer {
+  padding: 10px;
+  margin: 15px;
+  color: black;
+  font-size: 20px;
+  text-align: left;
+  font-style: sans-serif; 
+  line-height: 150%;
+  font-family: "Courier New"; 
+}
+
+.fourthparagraph {
+  padding: 10px;
+  margin: 15px;
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  font-style: sans-serif; 
+  line-height: 150%;
+  font-family: "Courier New"; 
+}
+
+.fourthparagraphanswer {
+  padding: 10px;
+  margin: 15px;
+  color: black;
+  font-size: 20px;
+  text-align: left;
+  font-style: sans-serif; 
+  line-height: 150%;
+  font-family: "Courier New"; 
+}
+
+.fourthparagraphanswer:hover {
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.conjunctivitis {
+  font-weight: bold;
+  color: red;
+  text-decoration: none;
+}
+
+.fifthparagraph {
+  padding: 10px;
+  margin: 15px;
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  font-style: sans-serif; 
+  line-height: 150%;
+  font-family: "Courier New"; 
+}
+
+.fifthparagraphanswer {
+  padding: 10px;
+  margin: 15px;
+  color: black;
+  font-size: 20px;
+  text-align: left;
+  font-style: sans-serif; 
+  line-height: 150%;
+  font-family: "Courier New"; 
 }
