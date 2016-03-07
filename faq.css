@@ -109,7 +109,7 @@ h2 {
   font-family: "Courier New"; 
 }
 
-.fourthparagraphanswers {
+.fourthparagraphanswer {
   padding: 10px;
   margin: 15px;
   color: black;
@@ -120,7 +120,7 @@ h2 {
   font-family: "Courier New"; 
 }
 
-.fourthparagraphanswers:hover {
+.fourthparagraphanswer:hover {
   text-align: center;
   font-weight: bold;
   font-size: 25px;
@@ -130,4 +130,27 @@ h2 {
   font-weight: bold;
   color: red;
   text-decoration: none;
+}
+
+.fifthparagraph {
+  padding: 10px;
+  margin: 15px;
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  font-style: sans-serif; 
+  line-height: 150%;
+  font-family: "Courier New"; 
+}
+
+.fifthparagraphanswer {
+  padding: 10px;
+  margin: 15px;
+  color: black;
+  font-size: 20px;
+  text-align: left;
+  font-style: sans-serif; 
+  line-height: 150%;
+  font-family: "Courier New"; 
 }
