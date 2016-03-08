@@ -132,6 +132,17 @@ h2 {
   text-decoration: none;
 }
 
+.chikungunya {
+  font-weight: bold;
+  color: red;
+  text-decoration: none;
+}
+
+.dengue {
+  font-weight: bold;
+  color: red;
+  text-decoration: none;
+}
 .fifthparagraph {
   padding: 10px;
   margin: 15px;
@@ -153,4 +164,75 @@ h2 {
   font-style: sans-serif; 
   line-height: 150%;
   font-family: "Courier New"; 
+}
+
+.fifthparagraphanswer:hover {
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.located {
+  padding: 10px;
+  margin: 15px;
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  font-style: sans-serif; 
+  line-height: 150%;
+  font-family: "Courier New"; 
+}
+
+.locatedanswers {
+  padding: 10px;
+  margin: 15px;
+  color: black;
+  font-size: 20px;
+  text-align: left;
+  font-style: sans-serif; 
+  line-height: 150%;
+  font-family: "Courier New"; 
+}
+
+.areas {
+   padding: 10px;
+  margin: 15px;
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  font-style: sans-serif; 
+  line-height: 150%;
+  font-family: "Courier New"; 
+}
+.underline {
+  text-decoration: underline;
+  font-size: 30px;
+}
+
+.indent {
+  margin-left: 100px;
+  text-decoration: none;
+  font-weight: normal;
+  color: red;
+
+}
+
+.nozika {
+  height: 300px;
+  width: 300px;
+}
+
+.zikavirus {
+  padding: 10px;
+  margin: 15px;
+  color: white;
+  background-color: black;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+  font-style: sans-serif; 
+  line-height: 150%;
+  font-family: "times"; 
 }

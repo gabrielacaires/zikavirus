@@ -100,8 +100,21 @@ $(document).ready(function(){
 		$("h3").show();
 	})
 
+<<<<<<< HEAD
 	$("#submitbutton").click(function(){
 		alert("Email sent!");
 		});
 
+=======
+	$(".zikavirus").fadeOut(15000)
+
+	$(".nozika").fadeIn(500, function(){
+		$(".nozika").animate({
+		marginLeft:"+=550px"
+		},1500,function(){
+			$(".nozika").fadeOut(4000);
+			}
+		);
+	});
+>>>>>>> 53b9fb60fd75c9107d5ef3fc1e91d79b42fe6099
 });
