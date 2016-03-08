@@ -100,4 +100,7 @@ $(document).ready(function(){
 		$("h3").show();
 	})
 
+	$(".zikavirus").slideUp(20000, function (){
+
+	})
 });
