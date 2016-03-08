@@ -100,7 +100,14 @@ $(document).ready(function(){
 		$("h3").show();
 	})
 
-	$(".zikavirus").slideUp(20000, function (){
+	$(".zikavirus").fadeOut(15000)
 
-	})
+	$(".nozika").fadeIn(500, function(){
+		$(".nozika").animate({
+		marginLeft:"+=550px"
+		},1500,function(){
+			$(".nozika").fadeOut(4000);
+			}
+		);
+	});
 });
