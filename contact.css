@@ -3,3 +3,8 @@
 	margin: 20px auto;
 	padding: 0 200px;
 }
+
+p {
+	font-weight: bold;
+	padding: 4px 0px;
+}

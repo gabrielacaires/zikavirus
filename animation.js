@@ -100,4 +100,8 @@ $(document).ready(function(){
 		$("h3").show();
 	})
 
+	$("#submitbutton").click(function(){
+		alert("Email sent!");
+		});
+
 });
