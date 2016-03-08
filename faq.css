@@ -132,6 +132,17 @@ h2 {
   text-decoration: none;
 }
 
+.chikungunya {
+  font-weight: bold;
+  color: red;
+  text-decoration: none;
+}
+
+.dengue {
+  font-weight: bold;
+  color: red;
+  text-decoration: none;
+}
 .fifthparagraph {
   padding: 10px;
   margin: 15px;
@@ -154,3 +165,33 @@ h2 {
   line-height: 150%;
   font-family: "Courier New"; 
 }
+
+.fifthparagraphanswer:hover {
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.located {
+  padding: 10px;
+  margin: 15px;
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  font-style: sans-serif; 
+  line-height: 150%;
+  font-family: "Courier New"; 
+}
+
+.locatedanswers {
+  padding: 10px;
+  margin: 15px;
+  color: black;
+  font-size: 20px;
+  text-align: left;
+  font-style: sans-serif; 
+  line-height: 150%;
+  font-family: "Courier New"; 
+}
+
